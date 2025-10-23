@@ -49,8 +49,8 @@
        <div class="container">
     <div class="row">
       <div class="col border"><H5>Biografias de mis compañeros</H5></div>
-      <div class="col border">Sabina Flores</div>
-      <div class="col border">Santiago Cruz</div>
+        <div class="col border"><a href="https://bootstrap-jimin.onrender.com">sabinaflores</a></div>
+      <div class="col border"><a href="https://bootstrap-dbly.onrender.com/">santiagocruz</a></div>
     </div>
 
        
